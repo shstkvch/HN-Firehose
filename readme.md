@@ -3,7 +3,7 @@ HN Firehose
 
 Hacker News is a tech discussion platform filled with nuggets of arcane information, wisdom and fiery opinion. This is a live stream of comments from the Hacker News site, with no context given to what the commenters are replying to. 
 
-[View live demo on Rawgit](https://cdn.rawgit.com/shstkvch/HN-Firehose/master/index.html)
+[View live demo on Rawgit](https://cdn.rawgit.com/shstkvch/HN-Firehose/6016374dc79a748f13587bddc65690c04d8b3350/index.html)
 
 There is a 60 second lag on the feed to allow the API to catch up. 
 
