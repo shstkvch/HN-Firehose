@@ -136,12 +136,11 @@
 		}
 
 		function show() {
+			var now = Math.floor( + new Date() / 1000 );
+			var offset = 60;
+			
 			for ( var i in items ) {
 				var item = items[i];
-
-				var now = Math.floor( + new Date() / 1000 );
-
-				var offset = 60;
 
 				if ( now > item.time + offset ) {
 					print( item );
